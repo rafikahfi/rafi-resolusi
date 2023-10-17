@@ -2,4 +2,5 @@ RENCANA LAIN SAYA
 
 - Tailwind
 - Javascript
+  * Framework Javascript
 - Backend
