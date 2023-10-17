@@ -7,3 +7,4 @@ RENCANA LAIN SAYA
 - Backend
   * PHP
   * MySQL
+  * NodeJs
