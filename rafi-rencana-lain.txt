@@ -2,7 +2,8 @@ RENCANA LAIN SAYA
 
 - Javascript
   * Framework Javascript
+    ^ ReactJs
 - Backend
   * PHP
   * MySQL
-  * Laravel
+  * NodeJs
