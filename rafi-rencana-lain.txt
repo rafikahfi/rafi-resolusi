@@ -1,0 +1,5 @@
+RENCANA LAIN SAYA
+
+- Tailwind
+- Javascript
+- Backend
